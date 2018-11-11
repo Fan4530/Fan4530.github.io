@@ -2,7 +2,7 @@
 layout:     post
 title:      "937. Reorder Log Files"
 date:       2018-11-10 12:00:00
-author:     "Hux"
+author:     "Fan"
 catalog: true
 tags:
 - Java-API
